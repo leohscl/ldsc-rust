@@ -1,2 +1,4 @@
 Cargo.lock
 target
+performance
+data/summary_stats
